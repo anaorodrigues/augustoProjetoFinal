@@ -1,0 +1,159 @@
+
+
+**** CAMPEAO Geral 0 PONTOS 107
+****  Tamanho torre: 4
+A ============= 29 s
+Desafio 1a = Repositioning: "Mover a foundation para o building site.". Pontos: 10 MaxVezes = 1
+Desafio 2a = Stone Delivery: "Entregar as pedras na foundation.". Pontos: 2 MaxVezes = 20
+Desafio 6a = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 3a = Navigating: "Terminar embaixo da ponte.". Pontos: 5 MaxVezes = 1
+Desafio 5a = Skystone Delivery: "Levar as duas primeiras skystones para a foundation.". Pontos: 10 MaxVezes = 2
+C ============= 119 s
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+E ============= 30 s
+Desafio 2e = Foundation Moved: "Mover a foundation para fora do building site. Requer ter feito a repositioning antes.". Pontos: 15 MaxVezes = 1
+Desafio 3e = Parking: "Terminar o jogo estando na Alliance’s Building.". Pontos: 5 MaxVezes = 1
+Desafio 1e = Capping: "Colocar a capstone no topo.". Pontos: 5 MaxVezes = 1
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+===================
+
+**** CAMPEAO Geral 1 PONTOS 126
+****  Tamanho torre: 5
+A ============= 30 s
+Desafio 3a = Navigating: "Terminar embaixo da ponte.". Pontos: 5 MaxVezes = 1
+Desafio 1a = Repositioning: "Mover a foundation para o building site.". Pontos: 10 MaxVezes = 1
+Desafio 5a = Skystone Delivery: "Levar as duas primeiras skystones para a foundation.". Pontos: 10 MaxVezes = 2
+Desafio 5a = Skystone Delivery: "Levar as duas primeiras skystones para a foundation.". Pontos: 10 MaxVezes = 2
+Desafio 4a = Placing: "Colocar cada stone ou skystone na foundation.". Pontos: 4 MaxVezes = 20
+Desafio 4a = Placing: "Colocar cada stone ou skystone na foundation.". Pontos: 4 MaxVezes = 20
+C ============= 118 s
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+E ============= 29 s
+Desafio 3e = Parking: "Terminar o jogo estando na Alliance’s Building.". Pontos: 5 MaxVezes = 1
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 2e = Foundation Moved: "Mover a foundation para fora do building site. Requer ter feito a repositioning antes.". Pontos: 15 MaxVezes = 1
+===================
+
+**** CAMPEAO Geral 3 PONTOS 135
+****  Tamanho torre: 7
+A ============= 29 s
+Desafio 1a = Repositioning: "Mover a foundation para o building site.". Pontos: 10 MaxVezes = 1
+Desafio 3a = Navigating: "Terminar embaixo da ponte.". Pontos: 5 MaxVezes = 1
+Desafio 5a = Skystone Delivery: "Levar as duas primeiras skystones para a foundation.". Pontos: 10 MaxVezes = 2
+Desafio 6a = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 5a = Skystone Delivery: "Levar as duas primeiras skystones para a foundation.". Pontos: 10 MaxVezes = 2
+C ============= 119 s
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+E ============= 26 s
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 3e = Parking: "Terminar o jogo estando na Alliance’s Building.". Pontos: 5 MaxVezes = 1
+===================
+
+**** CAMPEAO Geral 7 PONTOS 135
+****  Tamanho torre: 6
+A ============= 29 s
+Desafio 5a = Skystone Delivery: "Levar as duas primeiras skystones para a foundation.". Pontos: 10 MaxVezes = 2
+Desafio 6a = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1a = Repositioning: "Mover a foundation para o building site.". Pontos: 10 MaxVezes = 1
+Desafio 2a = Stone Delivery: "Entregar as pedras na foundation.". Pontos: 2 MaxVezes = 20
+Desafio 3a = Navigating: "Terminar embaixo da ponte.". Pontos: 5 MaxVezes = 1
+C ============= 119 s
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+E ============= 30 s
+Desafio 1e = Capping: "Colocar a capstone no topo.". Pontos: 5 MaxVezes = 1
+Desafio 3e = Parking: "Terminar o jogo estando na Alliance’s Building.". Pontos: 5 MaxVezes = 1
+Desafio 2e = Foundation Moved: "Mover a foundation para fora do building site. Requer ter feito a repositioning antes.". Pontos: 15 MaxVezes = 1
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+===================
+
+**** CAMPEAO Geral 7 PONTOS 135
+****  Tamanho torre: 6
+A ============= 29 s
+Desafio 5a = Skystone Delivery: "Levar as duas primeiras skystones para a foundation.". Pontos: 10 MaxVezes = 2
+Desafio 6a = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1a = Repositioning: "Mover a foundation para o building site.". Pontos: 10 MaxVezes = 1
+Desafio 2a = Stone Delivery: "Entregar as pedras na foundation.". Pontos: 2 MaxVezes = 20
+Desafio 3a = Navigating: "Terminar embaixo da ponte.". Pontos: 5 MaxVezes = 1
+C ============= 119 s
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+Desafio 3c = Skyscraper: "Empilhar a stone (ganha 2 pontos a cada nivel da torre).". Pontos: 4 MaxVezes = 8
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+Desafio 2c = Placing: "Colocar a stone ou skystone na foundation.". Pontos: 1 MaxVezes = 20
+E ============= 30 s
+Desafio 1e = Capping: "Colocar a capstone no topo.". Pontos: 5 MaxVezes = 1
+Desafio 3e = Parking: "Terminar o jogo estando na Alliance’s Building.". Pontos: 5 MaxVezes = 1
+Desafio 2e = Foundation Moved: "Mover a foundation para fora do building site. Requer ter feito a repositioning antes.". Pontos: 15 MaxVezes = 1
+Desafio 1c = Stone Delivery: "Levar stone para a foundation.". Pontos: 1 MaxVezes = 20
+===================
